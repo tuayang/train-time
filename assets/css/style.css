@@ -1,4 +1,7 @@
 .jumbotron {
-    background-color: aqua;
+    background-color: teal;
 }
 
+.card-header {
+    background-color: teal;
+}
